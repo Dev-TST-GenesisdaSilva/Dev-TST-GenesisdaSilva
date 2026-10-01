@@ -26,7 +26,6 @@ mobile voltados para capacitação e treinamento em segurança e saúde ocupacio
 
 | Projeto | Descrição |
 |---------|-----------|
-| ⛑️ [Curso NR-35](https://0genesis1.github.io/curso-nr35/) | Capacitação gamificada em Trabalho em Altura com exame final e certificado |
 
 ### 📊 Minha missão
 
